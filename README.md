@@ -1,6 +1,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=lantrik alt=lantrik /> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lantrik&bg_color=102442&title_color=fff&text_color=FF624F)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lantrik&bg_color=102442&title_color=54211B&text_color=FF624F)
 
 # follow me
 
